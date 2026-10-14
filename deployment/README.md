@@ -13,3 +13,7 @@ The Researchly dashboard classifies a pasted research abstract as artificial int
 
    ```bash
    cd "Q1& Q2_Research_Papers"
+
+python -m pip install -r ../requirements.txt
+
+streamlit run researchly_classifier_Q2.3.py
